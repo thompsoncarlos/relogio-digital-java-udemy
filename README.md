@@ -28,7 +28,7 @@ Classes Utilizadas:
 
 1- Faça clone deste repositório localmente:
 ```
-    git clone https://github.com/thompsoncarlos/java-relogio-digital-udemy.git
+    git clone https://github.com/thompsoncarlos/relogio-digital-java-udemy.git
 ```
 2 - No terminal execute o comando para rodar projeto
 ```
