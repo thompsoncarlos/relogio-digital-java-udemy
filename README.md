@@ -1,5 +1,7 @@
 # Projeto Relógio Digital
 
+![Print Project](./assets/project.png)
+
 ## Description
 Este projeto foi desenvolvido seguindo o curso: [Java 22: Aprenda POO + Componentes Gráficos + Projetos Incríveis para Iniciantes. Tudo ensinado com Amor!](https://www.udemy.com/share/10brPj3@WJAnjwgyy1RSox-juUhmtjHXWBFtEGYmRwkPG50QM_tUTyZbE_XxWbJTanuELq68/), do Professor Eng. Arnaldo Souza.
 
@@ -35,4 +37,4 @@ Classes Utilizadas:
     java --module-path "<SEU DIRETÓRIO JAVA>\Java>\javafx-sdk-22.0.1\lib" --add-modules javafx.controls ProjetoRelogioDigital
 ```
 
-![Print Project](./assets/project.png)
+
